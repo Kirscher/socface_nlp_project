@@ -1,0 +1,9 @@
+ydata-profiling
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tqdm
+transformers
+torch
